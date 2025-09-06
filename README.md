@@ -13,16 +13,9 @@ Search and filtering
 
 Responsive design
 ## 📸 Screenshots
-
-![Home Page]<img width="1339" height="529" alt="Screenshot_3" src="https://github.com/user-attachments/assets/6108eeb2-7777-48a2-887c-2094aa6a0555" />
-
-![Menu Page]<img width="1305" height="623" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ad43ad1e-41ef-4235-bc1a-a32002ccbd72" />
-
-![Menu Page]<img width="1319" height="607" alt="Screenshot_2" src="https://github.com/user-attachments/assets/7dc48af8-4e2d-485f-a263-a1df0c2385a5" />
+<img width="1325" height="534" alt="Screenshot_2" src="https://github.com/user-attachments/assets/420e8fad-f9a6-47d9-b9f3-af635db15f40" />
+<img width="1307" height="615" alt="Screenshot_1" src="https://github.com/user-attachments/assets/52e4f93d-4a59-40c9-834a-0a3c0a48e961" />
+<img width="1352" height="583" alt="Screenshot_3" src="https://github.com/user-attachments/assets/ba6db18f-852a-49ce-9622-dc5c239a0a1f" />
+<img width="1326" height="622" alt="Screenshot_4" src="https://github.com/user-attachments/assets/131ed3d6-472c-4d9c-856e-ff7284e2745a" />
 
 
-![Menu Page]<img width="1350" height="635" alt="Screenshot_4" src="https://github.com/user-attachments/assets/dcac759a-54c5-4421-b227-dba40679359f" />
-
-
-
->>>>>>> 137b5f12e4b33bc4633d7230dda2af1e31b5a3a0
